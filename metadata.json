@@ -1,0 +1,6 @@
+{
+  "name": "ClauseCraft - Legal Agreement Analyzer & Redliner",
+  "description": "Comprehensive legal clause risk analysis, ambiguity identification, and balanced redline drafting for service agreements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
